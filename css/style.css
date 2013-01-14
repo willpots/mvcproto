@@ -1,3 +1,6 @@
+.bold {
+  font-weight: bold; }
+
 .c01 {
   background: #e86c1f; }
 
@@ -99,20 +102,18 @@ body {
   background: #071427 url(https://web.middlebury.edu/development/tools/1d2010/Images/bluegradient.jpg) no-repeat center top; }
 
 header.main .login {
-  float: right;
-  padding: 0px 10px; }
+  float: right; }
   header.main .login a {
     color: white; }
 header.main h1 {
-  font-weight: 100;
-  padding: 10px; }
+  font-weight: 100; }
   header.main h1 a {
     color: white; }
 
 .article {
-  margin: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
   padding: 10px;
-  border: 1px solid rgba(255, 255, 255, 0.2); }
+  margin: 10px; }
   .article .article-header a {
     color: inherit; }
   .article .article-author {
@@ -135,9 +136,64 @@ header.main h1 {
       color: black; }
   .main-article .article-description {
     padding: 10px; }
+    .main-article .article-description img.right {
+      float: right;
+      margin-left: 5px;
+      margin-bottom: 5px; }
+    .main-article .article-description img.left {
+      float: left;
+      margin-right: 5px;
+      margin-bottom: 5px; }
+  .main-article .article-meta {
+    padding: 10px; }
+    .main-article .article-meta ul {
+      display: inline; }
+      .main-article .article-meta ul li {
+        display: inline; }
 
-.db-home .span4 {
+ul.no-style {
+  list-style: none; }
+
+.db-home .span4, .db-home .span3 {
   background: white;
   min-height: 300px; }
-  .db-home .span4 h4 {
+  .db-home .span4 h4, .db-home .span3 h4 {
     padding: 0 10px; }
+
+.db-company {
+  background: white;
+  margin: 0; }
+  .db-company .span12 .page-image {
+    float: right;
+    padding: 5px 25px; }
+    .db-company .span12 .page-image img {
+      height: 60px;
+      width: auto; }
+  .db-company .span4, .db-company .span3 {
+    font-size: 12px; }
+    .db-company .span4 h4, .db-company .span3 h4 {
+      border-bottom: 1pt solid black; }
+    .db-company .span4 table tr, .db-company .span3 table tr {
+      padding: 0px; }
+      .db-company .span4 table tr td, .db-company .span3 table tr td {
+        padding: 0px 2px; }
+
+.login-page {
+  margin: 0; }
+  .login-page .span12 {
+    margin: 0 auto;
+    background: white;
+    height: 300px;
+    text-align: center; }
+    .login-page .span12 .control-group .help-inline {
+      display: none; }
+    .login-page .span12 .control-group.error .help-inline, .login-page .span12 .control-group.warning .help-inline {
+      display: inline; }
+
+.contribute {
+  text-align: center; }
+  .contribute ul {
+    margin: 0;
+    padding: 0; }
+    .contribute ul li {
+      padding: 10px 0; }

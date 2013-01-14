@@ -42,6 +42,17 @@
       "outputAbbreviatedPath" : "\/js\/bootstrap.min.min.js",
       "fileType" : 64
     },
+    "\/img\/linkedin_signin_button.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/linkedin_signin_button.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/linkedin_signin_button.png",
+      "initialSize" : 5738,
+      "fileType" : 8192
+    },
     "\/database.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -89,15 +100,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/kits\/includes\/header.kit" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -106,6 +108,24 @@
       "inputAbbreviatedPath" : "\/kits\/includes\/header.kit",
       "outputAbbreviatedPath" : "\/kits\/includes\/header.html",
       "fileType" : 65536
+    },
+    "\/kits\/company.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/kits\/company.kit",
+      "outputAbbreviatedPath" : "\/company.html",
+      "fileType" : 65536
+    },
+    "\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/kits\/article.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -175,12 +195,30 @@
       "outputAbbreviatedPath" : "\/kits\/includes\/library.html",
       "fileType" : 65536
     },
+    "\/company.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/company.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/login.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/login.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -192,6 +230,15 @@
       "inputAbbreviatedPath" : "\/css\/bootstrap-responsive.min.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/kits\/login.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/kits\/login.kit",
+      "outputAbbreviatedPath" : "\/login.html",
+      "fileType" : 65536
     },
     "\/kits\/index.kit" : {
       "ignoreWasSetByUser" : 0,
