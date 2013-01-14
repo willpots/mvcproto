@@ -31,17 +31,6 @@
       "outputAbbreviatedPath" : "\/kits\/includes\/footer.html",
       "fileType" : 65536
     },
-    "\/js\/bootstrap.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/bootstrap.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/bootstrap.min.min.js",
-      "fileType" : 64
-    },
     "\/img\/linkedin_signin_button.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -53,23 +42,16 @@
       "initialSize" : 5738,
       "fileType" : 8192
     },
-    "\/database.html" : {
+    "\/js\/bootstrap.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/database.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/kits\/author.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/kits\/author.kit",
-      "outputAbbreviatedPath" : "\/author.html",
-      "fileType" : 65536
+      "inputAbbreviatedPath" : "\/js\/bootstrap.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/bootstrap.min.min.js",
+      "fileType" : 64
     },
     "\/img\/glyphicons-halflings-white.png" : {
       "ignoreWasSetByUser" : 0,
@@ -81,6 +63,24 @@
       "outputAbbreviatedPath" : "\/img\/glyphicons-halflings-white.png",
       "initialSize" : 8777,
       "fileType" : 8192
+    },
+    "\/kits\/author.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/kits\/author.kit",
+      "outputAbbreviatedPath" : "\/author.html",
+      "fileType" : 65536
+    },
+    "\/database.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/database.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/author.html" : {
       "ignoreWasSetByUser" : 0,
@@ -100,14 +100,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/kits\/includes\/header.kit" : {
-      "ignoreWasSetByUser" : 1,
+    "\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kits\/includes\/header.kit",
-      "outputAbbreviatedPath" : "\/kits\/includes\/header.html",
-      "fileType" : 65536
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/kits\/company.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -118,14 +118,14 @@
       "outputAbbreviatedPath" : "\/company.html",
       "fileType" : 65536
     },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
+    "\/kits\/includes\/header.kit" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/kits\/includes\/header.kit",
+      "outputAbbreviatedPath" : "\/kits\/includes\/header.html",
+      "fileType" : 65536
     },
     "\/kits\/article.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -135,17 +135,6 @@
       "inputAbbreviatedPath" : "\/kits\/article.kit",
       "outputAbbreviatedPath" : "\/article.html",
       "fileType" : 65536
-    },
-    "\/js\/bootstrap.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/bootstrap.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/bootstrap.min.js",
-      "fileType" : 64
     },
     "\/scss\/style.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -158,6 +147,17 @@
       "outputAbbreviatedPath" : "\/css\/style.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/js\/bootstrap.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/bootstrap.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/bootstrap.min.js",
+      "fileType" : 64
     },
     "\/article.html" : {
       "ignoreWasSetByUser" : 0,
@@ -186,15 +186,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/kits\/includes\/library.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kits\/includes\/library.kit",
-      "outputAbbreviatedPath" : "\/kits\/includes\/library.html",
-      "fileType" : 65536
-    },
     "\/company.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -203,6 +194,15 @@
       "inputAbbreviatedPath" : "\/company.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/kits\/includes\/library.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/kits\/includes\/library.kit",
+      "outputAbbreviatedPath" : "\/kits\/includes\/library.html",
+      "fileType" : 65536
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
