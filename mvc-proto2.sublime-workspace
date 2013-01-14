@@ -1,0 +1,2225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Short paragraph <p>"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"y",
+				"y-intercept"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"check",
+				"checkwin"
+			],
+			[
+				"fact",
+				"factorial2"
+			],
+			[
+				"item",
+				"Items"
+			],
+			[
+				"facto",
+				"factorial2"
+			],
+			[
+				"tree",
+				"treeSort"
+			],
+			[
+				"map",
+				"mapcons"
+			],
+			[
+				"shu",
+				"shuffle"
+			],
+			[
+				"shuffle",
+				"shufflehelp"
+			],
+			[
+				"fib",
+				"fibhelp"
+			],
+			[
+				"from",
+				"fromToBy"
+			],
+			[
+				"eq",
+				"eqv"
+			],
+			[
+				"merge",
+				"mergesort"
+			],
+			[
+				"new",
+				"newline"
+			],
+			[
+				"my",
+				"myreverse"
+			],
+			[
+				"st",
+				"stdout  (variable)"
+			],
+			[
+				"end",
+				"end_y"
+			],
+			[
+				"start",
+				"start_y"
+			],
+			[
+				"Ram",
+				"RambleList"
+			],
+			[
+				"coord",
+				"coord_string"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"makr",
+				"markers"
+			],
+			[
+				"L",
+				"LatLngBounds  (variable)"
+			],
+			[
+				"scro",
+				"scroll"
+			],
+			[
+				"remo",
+				"remote_url"
+			],
+			[
+				"resiz",
+				"resized_image"
+			],
+			[
+				"type",
+				"type_string"
+			],
+			[
+				"typ",
+				"type_string"
+			],
+			[
+				"conso",
+				"console.log();"
+			],
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"alb",
+				"album"
+			],
+			[
+				"api",
+				"api_geo_data"
+			],
+			[
+				"WebA",
+				"WebApiResponse"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"r",
+				"r	attr_reader .."
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"webm",
+				"webm_finished"
+			],
+			[
+				"mp4",
+				"mp4_finished"
+			],
+			[
+				"web",
+				"webm_finished"
+			],
+			[
+				"cap",
+				"capture"
+			],
+			[
+				"captu",
+				"capture"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"medi",
+				"media_file_name"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"capr",
+				"capture_info"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"capt",
+				"capture_info"
+			],
+			[
+				"media",
+				"media_file"
+			],
+			[
+				"Mobile",
+				"MobileApiError"
+			],
+			[
+				"med",
+				"media_file"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"un",
+				"uniqueness"
+			],
+			[
+				"Mo",
+				"MobileApiResponse"
+			],
+			[
+				"Mob",
+				"MobileApiError"
+			],
+			[
+				"error_",
+				"error_string"
+			],
+			[
+				"all",
+				"all_media"
+			],
+			[
+				"center",
+				"center-logo"
+			],
+			[
+				"find",
+				"find_by_id"
+			],
+			[
+				"album",
+				"albums"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"sing",
+				"single_command"
+			],
+			[
+				"con",
+				"console.log();"
+			],
+			[
+				"upload",
+				"uploadfb"
+			],
+			[
+				"gl",
+				"global"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"mar",
+				"margin	margin-top: length"
+			],
+			[
+				"pad",
+				"padding	padding: V H"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius:   (property)"
+			],
+			[
+				"u",
+				"url(image-url.gif)"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"toggle",
+				"togglePlay"
+			],
+			[
+				"RambleP",
+				"RamblePlayer"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"login",
+				"login_command"
+			],
+			[
+				"doc",
+				"doc_command"
+			],
+			[
+				"s",
+				"system"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pos",
+				"position	position: type"
+			],
+			[
+				"scrub",
+				"scrubBar"
+			],
+			[
+				"jque",
+				"jquery-ui"
+			],
+			[
+				"Video",
+				"VideoPlayer"
+			],
+			[
+				"LatLng",
+				"LatLngBounds"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"nth",
+				":nth-child(|)"
+			],
+			[
+				"m",
+				"meta"
+			],
+			[
+				"test",
+				"test_array"
+			],
+			[
+				"int",
+				"invert_sign"
+			],
+			[
+				"ev",
+				"every_other_sum"
+			],
+			[
+				"hash",
+				"hash_value_sum"
+			],
+			[
+				"has",
+				"hash_value_sum"
+			],
+			[
+				"assert",
+				"assert_equal"
+			],
+			[
+				"ass",
+				"assert_nil"
+			],
+			[
+				"index",
+				"index_value"
+			],
+			[
+				"ind",
+				"index_value  (variable)"
+			],
+			[
+				"bac",
+				"background	background-color: name"
+			],
+			[
+				"inver",
+				"invert_sign"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding	padding: all"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"si",
+				"site_name"
+			],
+			[
+				"root",
+				"root_node"
+			],
+			[
+				"ro",
+				"root_node"
+			],
+			[
+				"is",
+				"is_question"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"p",
+				"<p>${1001:$SELECTION}</p>"
+			],
+			[
+				"pa",
+				"padding	padding: V H"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 1992,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kits/article.kit",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kits/includes/header.kit",
+			"settings":
+			{
+				"buffer_size": 630,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kits/includes/footer.kit",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"for",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"set pro",
+				"Set Syntax: Prolog"
+			],
+			[
+				"set pr",
+				"Set Syntax: Prolog"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"place",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: Manage remote files"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ugl",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"natu",
+				"NaturalDocs: Decorate line comment"
+			],
+			[
+				"commen",
+				"NaturalDocs: Add Comment"
+			],
+			[
+				"jsdoc",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"nat",
+				"NaturalDocs: Add Comment"
+			],
+			[
+				"add com",
+				"NaturalDocs: Add Comment"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jsli",
+				"JSLint: Run JSLint"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLint – User"
+			],
+			[
+				"lin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"cam",
+				"Camaleón : Next Color Scheme and Chrome Theme"
+			],
+			[
+				"ca",
+				"Camaleón : Next Color Scheme and Chrome Theme"
+			],
+			[
+				"cama",
+				"Camaleón : Next Color Scheme and Chrome Theme"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"linte",
+				"Closure Linter: Fix JavaScript Style"
+			],
+			[
+				"fo",
+				"Format: Php"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"SFTP: Upload File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upload fi",
+				"SFTP: Upload File"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gist de",
+				"Gist: Delete Gist"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"feth",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"fer",
+				"Fetch: Manage remote files"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ina",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"set syntax:html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/will/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/will/Sites/mvc-proto2/index.html",
+		"/Users/will/Sites/mvc-proto2/database.html",
+		"/Users/will/Sites/mvc-proto2/article.html",
+		"/Users/will/Sites/mvc-proto2/css/style.css",
+		"/Users/will/Sites/mvc-proto/scss/style.scss",
+		"/Users/will/Sites/mvc-proto/.gitignore",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/index.html",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/js/jquery.js",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/scss/style.scss",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/js/script.js",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/css/style.css",
+		"/Users/will/Dropbox/Documents/MVC/Site/Prototype/style.css",
+		"/Users/will/Documents/Brandreth/Master Map/Cultural Features/APAMasterPlan/landclass2012.prj",
+		"/Users/will/Documents/Brandreth/Master Map/Cultural Features/APAMasterPlan/landclass2012.shx",
+		"/Users/will/Desktop/index.html",
+		"/Users/will/Dropbox/Documents/EC265/Econ265ExamGuide.md",
+		"/Users/will/Spotify/Pots/manifest.json",
+		"/Users/will/Dropbox/Documents/CS313/hw10/hw10.pl",
+		"/Users/will/Dropbox/Documents/CS313/hw10/hw10.scm",
+		"/Users/will/Dropbox/Documents/CS313/hw10/goat.pl",
+		"/Users/will/Documents/presspeech.md",
+		"/Users/will/Documents/presidentialspeech.txt",
+		"/Users/will/Dropbox/Documents/CS313/hw9/pete1.pl",
+		"/Users/will/Dropbox/Documents/CS313/hw9/hw9.pl",
+		"/Users/will/Dropbox/Documents/CS313/hw9/bst.pl",
+		"/Users/will/.bash_profile",
+		"/Users/will/.profile",
+		"/Users/will/.zshrc",
+		"/Users/will/Projects/haskell/hello.hs",
+		"/Users/will/Desktop/hw8.ml",
+		"/Users/will/Desktop/sample.ml",
+		"/Users/will/Desktop/deriv_scm.scm",
+		"/Users/will/Desktop/hw7.scm",
+		"/Users/will/Desktop/hw.scm",
+		"/Users/will/Desktop/hello.scm",
+		"/Applications/Notes.app/Contents/Resources/en.lproj/DefaultFonts.plist",
+		"/Users/will/Dropbox/Documents/CS313/hw5/fraction.py",
+		"/Users/will/Dropbox/Documents/CS301/Exam1/exam1.tex",
+		"/Users/will/Sites/mvc/.gitignore",
+		"/Users/will/Sites/mvc/config.rb",
+		"/Users/will/Sites/mvc/index.haml",
+		"/Users/will/Sites/mvc/index.html.haml",
+		"/Users/will/Sites/mvc/index.html.html",
+		"/Users/will/Sites/mvc/index.html",
+		"/Users/will/Dropbox/Documents/CS313/HW4/connect.py",
+		"/Users/will/Dropbox/Documents/CS313/HW4/connect2.py",
+		"/Volumes/wspotter/Documents/cs313/hw3/Makefile",
+		"/Volumes/wspotter/Documents/cs313/hw3/parens.c",
+		"/Volumes/wspotter/Documents/cs313/hw3/Problem_1-2",
+		"/Volumes/wspotter/Documents/cs313/hw3/hailstone.py",
+		"/Volumes/wspotter/Documents/cs313/hw3/bst.c",
+		"/Users/will/Dropbox/documents/CS313/HW3/parens.c",
+		"/Users/will/Dropbox/documents/CS313/HW3/passby.c",
+		"/Users/will/Dropbox/documents/CS313/HW3/Makefile",
+		"/Users/will/Dropbox/documents/CS313/HW3/hailstone.py",
+		"/Users/will/Dropbox/documents/CS313/HW3/bst.c",
+		"/Users/will/Dropbox/documents/CS313/HW3/bst",
+		"/Users/will/Documents/CS313/HW3/bst.c",
+		"/Users/will/Desktop/pascal/hello.p",
+		"/Users/will/Downloads/Brandreth Map Data/tiles/scrape.rb",
+		"/Users/will/tiles/scrape.rb",
+		"/Users/will/scrape.rb",
+		"/Users/will/Downloads/MarkedBonusPack1.5/Watchers/nvwatch.rb",
+		"/Users/will/Downloads/cgi_error_log.txt",
+		"/Users/will/Desktop/middsdwp.sql",
+		"/Users/will/Desktop/middsdweb.sql",
+		"/Users/will/Desktop/Documents/StraboCaptures/output.txt",
+		"/Users/will/Sites/starter-kit/js/app.js",
+		"/Users/will/Downloads/starter-kit/css/style.css",
+		"/Users/will/Projects/Strabo-Multi-Recorder/.gitignore",
+		"/Users/will/Downloads/output.kml",
+		"/Users/will/Downloads/csv.rb",
+		"/Users/will/Downloads/Combined.csv",
+		"/Users/will/Sites/api.strabo.co/src/js/src/util.js",
+		"/Users/will/Sites/api.strabo.co/build/ramble.min.js",
+		"/Users/will/Sites/api.strabo.co/src/scss/app.scss",
+		"/Users/will/Sites/api.strabo.co/src/scss/popup.scss",
+		"/Users/will/Sites/api.strabo.co/examples/index.html",
+		"/Users/will/Sites/api.strabo.co/docs/index.html",
+		"/Users/will/Sites/api.strabo.co/src/js/src/ramblelist.js",
+		"/Users/will/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/will/Sites/new.willpots.com/index.html",
+		"/Users/will/Sites/new.willpots.com/css/styles.css",
+		"/Users/will/Developer/prelaunch.md",
+		"/Users/will/Downloads/ds-paper-textures/index.html",
+		"/Users/will/compass.kml",
+		"/Users/will/doc.kml",
+		"/Users/will/convert.rb",
+		"/Users/will/Downloads/Public_Access/doc.kml",
+		"/Users/will/Projects/ns.api.strabo.co/app/controllers/upload_controller.rb",
+		"/Users/will/Projects/api.strabo.co/examples/index.html",
+		"/Users/will/Desktop/downloadsc.js",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/NSString+MD5.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCapture.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCaptureDataCollector.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCaptureFileManager.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCaptureFileOrganizer.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCaptureUploadManager.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRCaptureViewController.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRGeoLocationData.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/STRMultiRecorderStoryboard.storyboard",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/NSDate+Date_Utilities.h",
+		"/Users/will/Projects/Multi-Recorder-Source/STRABO-MultiRecorder/multi-recorder-sdk.h",
+		"/Volumes/POTTER 1TB/Backups.backupdb/willpotter/2012-07-26-125705/Macintosh HD/Users/williampotter/Xcode/Strabo-Multi-Recorder/src/multi-recorder-sdk.h",
+		"/Users/will/Projects/Toast_Web/app/assets/javascripts/toast-album.js",
+		"/Users/will/Projects/Toast_Web/app/assets/javascripts/album.show.js",
+		"/Users/will/Projects/Toast_Web/app/assets/stylesheets/application.css.scss",
+		"/Users/will/Projects/Toast_Web/vendor/assets/javascripts/leaflet-rotate.js",
+		"/Users/will/Desktop/12074316411296807266camera white.svg",
+		"/Users/will/Projects/Toast_Web/Gemfile",
+		"/Users/will/Projects/Toast_Web/app/assets/stylesheets/albums.css.scss",
+		"/Users/will/Projects/Toast_Web/app/assets/javascripts/capture.js",
+		"/Users/will/Projects/Toast_Web/app/views/layouts/_topbar.html.erb",
+		"/Users/will/Downloads/bobthecow-coda-cli-211a2dd/README.markdown",
+		"/Users/will/Downloads/ipaintcode-Coda-2-Themes-ffeabf2/README.md",
+		"/Users/will/Projects/Toast_Web/sample_track/c050dde8056396fc9529429ed0b5a59f.json",
+		"/Users/will/Desktop/4e0518c8ef0ec6a997be18d3c5ce9618/4e0518c8ef0ec6a997be18d3c5ce9618_geo_data.json",
+		"/Users/will/Desktop/4e0518c8ef0ec6a997be18d3c5ce9618/4e0518c8ef0ec6a997be18d3c5ce9618.json",
+		"/Users/will/Projects/panini/sample_track/1bc29b36f623ba82aaf6724fd3b16718.json",
+		"/Users/will/Desktop/19340C25-4CE5-414D-B67C-C03239FE5DD9-1340390197/19340C25-4CE5-414D-B67C-C03239FE5DD9-1340390197_geo_data.json",
+		"/Users/will/Desktop/19340C25-4CE5-414D-B67C-C03239FE5DD9-1340390197/19340C25-4CE5-414D-B67C-C03239FE5DD9-1340390197.json",
+		"/Users/will/Desktop/19340C25-4CE5-414D-B67C-C03239FE5DD9-1336258712/19340C25-4CE5-414D-B67C-C03239FE5DD9-1336258712.json",
+		"/Users/will/Projects/Toast_Web/config/database.yml",
+		"/Users/will/Projects/Toast_Web/app/controllers/albums_controller.rb",
+		"/Users/will/Projects/Toast_Web/app/views/albums/show.html.erb",
+		"/Users/will/Projects/Toast_Web/app/assets/javascripts/util.js",
+		"/Users/will/Projects/Toast_Web/app/assets/javascripts/albums.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Library/Webserver/Documents/www.omegaalpha.net/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"white",
+			"Sample Article",
+			"ccc",
+			"c0",
+			"brightGreen",
+			"lightBlue",
+			"brightRed",
+			"ed",
+			"urple",
+			"orange",
+			"US2",
+			"US1",
+			"SS5",
+			"SS4",
+			"SS3",
+			"SS2",
+			"SS1",
+			"OW",
+			"FO5",
+			"FO2",
+			"FO1",
+			"EM1",
+			"Hamlet",
+			"[ABC] = ",
+			"]",
+			"[",
+			"cannibals",
+			"missionaries",
+			"sqrt",
+			"_",
+			"\\t",
+			"char=?",
+			"difference-set",
+			"intersection-set",
+			"union-set",
+			"left",
+			"in-set",
+			"	",
+			"\\alpha_{26}^{1,4,6}",
+			"\\alpha_{25}^{1,4,6}",
+			"\\alpha_{24}^{1,4,6}",
+			"\\alpha_{23}^{1,4,6}",
+			"\\alpha_{22}^{1,4,6}",
+			"\\alpha_{21}^{1,4,6}",
+			"\\alpha_{12}^{1,4,6}",
+			"\\\\alpha\\_\\{([0-9])([0-9])\\}\\^\\{1\\,4\\}",
+			"\\\\alpha_\\{(0-9)(0-9)\\}^{1,4}",
+			"alpha_{(0-9)(0-9)}^{1,4}",
+			"1,4,6",
+			"$title-fonts",
+			"title-fonts",
+			"	",
+			":(start|end)_([xy])",
+			"\"(start|end)_([xy])\"",
+			"(start|end)_([xy])",
+			"(201208[0-3]{1}[0-9]*T[0-9]{6})",
+			"&",
+			"&[^a]",
+			"&",
+			"&[^a]",
+			"~",
+			"([0-9]*).([0-9]*)° [W]",
+			"([0-9]*).([0-9]*)° [N]",
+			"output = ",
+			"print",
+			"<[\\/]*MultiGeometry>",
+			"<[\\/]*Polygon>",
+			"<[\\/]*outerBoundaryIs>",
+			"<[\\/]*LinearRing>",
+			"						</LinearRing>\n					</outerBoundaryIs>\n				</Polygon>\n			</MultiGeometry>\n",
+			"			<MultiGeometry>\n				<Polygon>\n					<outerBoundaryIs>\n						<LinearRing>\n							",
+			"				<altitudeMode>relativeToGround</altitudeMode>\n",
+			"			<MultiGeometry>\n				<Polygon>\n					<outerBoundaryIs>\n						<LinearRing>\n							",
+			"				<altitudeMode>relativeToGround</altitudeMode>\n",
+			"			<Snippet maxLines=\"1\">[A-Za-z0-9\\,\\.\\-\\ \\(\\)\\#]*</Snippet>\n",
+			"			<Snippet maxLines=\"1\">[A-Za-z0-9\\,\\.\\-\\ \\(\\)]*</Snippet>\n",
+			"			<Snippet maxLines=\"1\">[A-Za-z0-9\\,\\.\\-\\ ]*</Snippet>\n",
+			"			<styleUrl>#[A-Za-z0-9]*</styleUrl>\n",
+			"			<styleUrl>#PolyStyle0000</styleUrl>\n",
+			"					<tessellate>1</tessellate>\n",
+			"<Snippet maxLines=\"0\"><\\/Snippet>\\n\\t\\t\\t",
+			"\\t\\t\\t<description><\\/description>\\n",
+			"<description><\\/description>",
+			"CDATA",
+			"<!\\[CDATA\\[[<>a-zA-Z\\ \\=\\'\\_\\:\\/0-9\\.\\-\\(\\,\\)\\;\\\"\\#\\&]*]]>",
+			"<!\\[CDATA\\[[<>a-zA-Z\\ \\=\\'\\_\\:\\/0-9\\.\\-\\(\\,\\)\\;\\\"\\#]*]]>",
+			"<!\\[CDATA\\[[<>a-zA-Z\\ \\=\\'\\_\\:\\/0-9\\.\\-\\(\\,\\)]*]]>",
+			"reloadCapture()",
+			"reloadCapture();",
+			"-webkit-radial-gradient(50% 50%, ellipse cover, rgba(56, 56, 56, 0.0390625) 0%, rgba(0, 0, 0, 0.519531) 100%), url(/assets/background.png)\n-webkit-radi",
+			"%20",
+			"article",
+			"/assets/",
+			".item",
+			"background.png",
+			"dropdown-trigger",
+			"captureElement",
+			"marker",
+			"capture",
+			"followRoute",
+			":",
+			"this",
+			"\"",
+			"viewer.video",
+			"pause()",
+			"tracks[cT]",
+			" video",
+			"Capture",
+			"httpRequest",
+			"parker",
+			"parkerfucksgoats",
+			"MobileApiError",
+			"first_name",
+			"@a",
+			"images/",
+			"0.22",
+			"0.05",
+			"0.19",
+			"#user-image",
+			"#",
+			"pause()",
+			"#play-pause",
+			"getTrack",
+			"#play-pa",
+			"'.track",
+			"followRoute()",
+			"currentPoint",
+			"followRoute"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<a href=\"article.html\">Sample Article</a>",
+			"fff",
+			"c",
+			"(define \\1",
+			"(define \\1 ",
+			")",
+			"(",
+			"c",
+			"m",
+			"  ",
+			"eqv?",
+			"equal?",
+			"difference",
+			"intersection",
+			"union",
+			"member",
+			"    ",
+			"\\emptyset",
+			"b(a+b)^{*}",
+			"a",
+			"\\emptyset",
+			"a",
+			"\\alpha_{\\16}^{1,4}(\\alpha_{66}^{1,4})^{*}\\alpha_{1\\2}^{1,4}",
+			"\\alpha_{\\1 6}^{1,4}(\\alpha_{66}^{1,4})^{*}\\alpha_{1\\2}^{1,4}",
+			"\\alpha_{\\1 6}^{1,4}(\\alpha_{66}^{1,4})^{*}\\alpha_{1\\1}^{1,4}",
+			"1,4",
+			"$sstitle-fonts",
+			"    ",
+			"\"\\1_\\2\"",
+			":\\1_\\2",
+			"\"\\1_\\2\"",
+			"\\n\\1",
+			"&amp; ",
+			"&amp;",
+			"-\\1.\\2",
+			"\\1.\\2",
+			"\\1",
+			"output += ",
+			"output = ",
+			"",
+			" ",
+			"a",
+			"fonts/",
+			".capture",
+			"this.capture",
+			"this",
+			"updateMap",
+			"=",
+			"ToastAPI.prototype",
+			"'",
+			"video",
+			"capture",
+			" viewer.video",
+			"ToastCapture",
+			"xhr",
+			"fuckch0p",
+			"parker",
+			"MobileApiResponse",
+			"name",
+			"a",
+			"/assets/",
+			"0.32",
+			"0.10",
+			"0.29",
+			"track",
+			"/single-pause.png",
+			"/single-play.png",
+			"\nsingle-play.png",
+			"\n",
+			"    ",
+			"this",
+			"route",
+			", ",
+			"build",
+			"showFriendSidebar",
+			"showUserSidebar",
+			"showHomeSidebar",
+			"pullHomeSidebar",
+			"ajax",
+			"	",
+			"build",
+			"images",
+			">>",
+			"/client/",
+			"this",
+			"\n",
+			"_",
+			"",
+			"div",
+			" ",
+			"",
+			"<tr><td  class=\"green\">",
+			"tr>",
+			"<hr />",
+			"<br />",
+			"",
+			"<hr />",
+			"",
+			"<hr />",
+			"",
+			"<br />",
+			">",
+			"",
+			"p_node",
+			"c_node",
+			"url('fonts/",
+			"root_node",
+			"#container",
+			"	",
+			"",
+			"(bandwidth/1024)<=",
+			"(space/1024)<=",
+			"bandwidth",
+			"0.000000",
+			"</h3>",
+			"<h3>",
+			"",
+			"<a href=\"http://$1.com$2\">$1.com$2</a>",
+			"",
+			"$1",
+			"<t$1></t$2>",
+			"<th></th>",
+			"<td></td>",
+			"<td style=\"background:yellow;\">O(n)</td>",
+			"<td style=\"background:green;\">O(1)</td>",
+			">",
+			"",
+			"	<td"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/style.scss",
+					"settings":
+					{
+						"buffer_size": 1992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1406,
+								1406
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 586.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "kits/article.kit",
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kits/includes/header.kit",
+					"settings":
+					{
+						"buffer_size": 630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "kits/includes/footer.kit",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 119.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"jqu",
+				"js/jquery.js"
+			],
+			[
+				"sty",
+				"scss/style.scss"
+			],
+			[
+				"tu",
+				"tutorial.js"
+			],
+			[
+				"m",
+				"manifest.json"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"g",
+				"goat.pl"
+			],
+			[
+				"hw9",
+				"hw9.pl"
+			],
+			[
+				"p",
+				"pete1.pl"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"toaa",
+				"app/assets/javascripts/toast-album.js"
+			],
+			[
+				"albsho",
+				"app/assets/javascripts/album.show.js"
+			],
+			[
+				"application.scss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"leaflet",
+				"vendor/assets/javascripts/leaflet-rotate.js"
+			],
+			[
+				"topbar",
+				"app/views/layouts/_topbar.html.erb"
+			],
+			[
+				"application.scs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"album.scs",
+				"app/assets/stylesheets/albums.css.scss"
+			],
+			[
+				"rotat",
+				"vendor/assets/javascripts/leaflet-rotate.js"
+			],
+			[
+				"album.js",
+				"app/assets/javascripts/toast-album.js"
+			],
+			[
+				"album.show",
+				"app/assets/javascripts/album.show.js"
+			],
+			[
+				"capture",
+				"app/assets/javascripts/capture.js"
+			],
+			[
+				"mob",
+				"app/controllers/mobile_api_controller.rb"
+			],
+			[
+				"layout",
+				"app/views/layouts/_topbar.html.erb"
+			],
+			[
+				"show",
+				"app/views/albums/show.html.erb"
+			],
+			[
+				"albucon",
+				"app/controllers/albums_controller.rb"
+			],
+			[
+				"appalbum",
+				"app/controllers/albums_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"albumscss",
+				"app/assets/stylesheets/albums.css.scss"
+			],
+			[
+				"toastal",
+				"app/assets/javascripts/toast-album.js"
+			],
+			[
+				"util",
+				"app/assets/javascripts/util.js"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"uplad",
+				"upload.rb"
+			],
+			[
+				"_ge",
+				"sample_track/bcb8b27d3c28f597a5e518649cb1160c_geo_data.json"
+			],
+			[
+				"bc",
+				"sample_track/bcb8b27d3c28f597a5e518649cb1160c.json"
+			],
+			[
+				"geo",
+				"sample_track/bcb8b27d3c28f597a5e518649cb1160c_geo_data.json"
+			],
+			[
+				"users_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"up",
+				"upload.rb"
+			],
+			[
+				"b",
+				"sample_track/bcb8b27d3c28f597a5e518649cb1160c.json"
+			],
+			[
+				"eg",
+				"sample_track/fbf7ddb41122727a05725ddc5ef28498_geo_data.json"
+			],
+			[
+				".json",
+				"sample_track/bcb8b27d3c28f597a5e518649cb1160c.json"
+			],
+			[
+				"1bc29b36f623ba82aaf6724fd3b16718",
+				"sample_track/1bc29b36f623ba82aaf6724fd3b16718.json"
+			],
+			[
+				"toast2",
+				"app/assets/javascripts/toast2.js"
+			],
+			[
+				"users.cs",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"leaf",
+				"vendor/assets/stylesheets/leaflet.css"
+			],
+			[
+				"rotate",
+				"vendor/assets/javascripts/leaflet-rotate.js"
+			],
+			[
+				"leafl",
+				"vendor/assets/javascripts/leaflet.js"
+			],
+			[
+				"albumcss",
+				"app/assets/stylesheets/albums.css.scss"
+			],
+			[
+				"toast-",
+				"app/assets/javascripts/toast-album.js"
+			],
+			[
+				"toast-al",
+				"app/assets/javascripts/toast-album.js"
+			],
+			[
+				"capture.js",
+				"app/assets/javascripts/capture.js"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"1b",
+				"sample_track/1bc29b36f623ba82aaf6724fd3b16718_geo_data.json"
+			],
+			[
+				"1",
+				"tmp/cache/assets/C62/1D0/sprockets%2F1638f87db345b13872695759502b54fe"
+			],
+			[
+				"1bc29b36f623ba82aaf6724fd3b16718_",
+				"sample_track/1bc29b36f623ba82aaf6724fd3b16718_geo_data.json"
+			],
+			[
+				"1bc29b36f623ba82aaf6724fd3b16718.",
+				"sample_track/1bc29b36f623ba82aaf6724fd3b16718.json"
+			],
+			[
+				"upl",
+				"upload.rb"
+			],
+			[
+				"track",
+				"track.js"
+			],
+			[
+				"ram",
+				"ramble.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"web",
+				"app/controllers/web_api_controller_controller.rb"
+			],
+			[
+				"add",
+				"db/migrate/20120613170649_add_orientation.rb"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"sam",
+				"sample_info.json"
+			],
+			[
+				"chan",
+				"db/migrate/20120612202814_change_column.rb"
+			],
+			[
+				"chang",
+				"db/migrate/20120612202814_change_column.rb"
+			],
+			[
+				"db",
+				"db/migrate/20120612194936_create_db.rb"
+			],
+			[
+				"db/migrate/20120612171820_add_taken_dateto_capture.rb",
+				"db/migrate/20120612171820_add_taken_dateto_capture.rb"
+			],
+			[
+				"db/migrate/20120612153111_add_panda_encoding_columns.rb",
+				"db/migrate/20120612153111_add_panda_encoding_columns.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,140 @@
+
+// Colors
+.c01 {
+	background: rgb(232, 108, 31);
+}
+.c02 {
+	background: rgb(0, 102, 51);
+}
+.c03 {
+	background: rgb(102, 153, 102);
+}
+.c04 {
+	background: rgb(175, 148, 0);
+}
+.c05 {
+	background: rgb(91, 0, 134);
+}
+.c06 {
+	background: rgb(102, 0, 51);
+}
+.c07 {
+	background: rgb(4, 66, 75);
+}
+.c08 {
+	background: rgb(51, 51, 102);
+}
+.c09 {
+	background: rgb(153, 51, 51);
+}
+.c10 {
+	background: rgb(24, 71, 128);
+}
+.c11 {
+	background: rgb(24, 71, 128);
+}
+.c1  {background-color: #e86c1f; color:#fff; }
+.c2  {background-color: #006633; color:#fff; }
+.c3  {background-color: #af9400; color:#fff; }
+.c4  {background-color: #669966; color:#fff; }
+.c5  {background-color: #5b0086; color:#fff; }
+.c6  {background-color: #660033; color:#fff; }
+.c7  {background-color: #04424b; color:#fff; }
+.c8  {background-color: #333366; color:#fff; }
+.c9  {background-color: #993333; color:#fff; }
+.c10 {background-color: #993300; color:#fff; }
+.c11 {background-color: #184780; color:#fff; }
+.c12 {background-color: #669933; color:#fff; }
+.c13 {background-color: #663333; color:#fff; }
+.c14 {background-color: #0a6c4f; color:#fff; }
+.c15 {background-color: #78a12e; color:#fff; }
+.c16 {background-color: #00919e; color:#fff; }
+
+html, body {
+
+}
+
+body {
+	background:rgb(7, 20, 39) url(https://web.middlebury.edu/development/tools/1d2010/Images/bluegradient.jpg) no-repeat center top;
+}
+
+
+
+header.main {
+	.login {
+		float: right;
+		padding: 0px 10px;
+		a {
+			color: white;
+		}
+	}
+	h1 {
+		a {
+			color:white;
+		}
+		font-weight: 100;
+		padding:10px;
+	}
+}
+#main {
+
+	.navbar {
+		.navbar-inner {
+
+		}
+	}
+}
+.article {
+	margin:10px;
+	padding:10px;
+	border:1px solid rgba(255,255,255,0.2);
+	.article-header {
+		a {
+			color: inherit;
+		}
+	}
+	.article-author {
+		a {
+			color:black;
+		}
+		margin:5px 0px;
+		font-size: 14px;
+	}
+	.article-description {
+
+	}
+}
+.main-article {
+	background:white;
+	.article-header {
+		padding:10px;
+		a {
+			color: inherit;
+		}
+	}
+	.article-author {
+		padding:0 10px;
+		a {
+			color:black;
+		}
+		margin:5px 0px;
+		font-size: 14px;
+	}
+	.article-description {
+		padding:10px;
+	}
+}
+
+
+.db-home {
+
+	.span4 {
+		background:white;
+		min-height: 300px;
+
+		h4 {
+			padding: 0 10px;
+		}
+	}
+
+}

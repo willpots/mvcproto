@@ -1,0 +1,143 @@
+.c01 {
+  background: #e86c1f; }
+
+.c02 {
+  background: #006633; }
+
+.c03 {
+  background: #669966; }
+
+.c04 {
+  background: #af9400; }
+
+.c05 {
+  background: #5b0086; }
+
+.c06 {
+  background: #660033; }
+
+.c07 {
+  background: #04424b; }
+
+.c08 {
+  background: #333366; }
+
+.c09 {
+  background: #993333; }
+
+.c10 {
+  background: #184780; }
+
+.c11 {
+  background: #184780; }
+
+.c1 {
+  background-color: #e86c1f;
+  color: #fff; }
+
+.c2 {
+  background-color: #006633;
+  color: #fff; }
+
+.c3 {
+  background-color: #af9400;
+  color: #fff; }
+
+.c4 {
+  background-color: #669966;
+  color: #fff; }
+
+.c5 {
+  background-color: #5b0086;
+  color: #fff; }
+
+.c6 {
+  background-color: #660033;
+  color: #fff; }
+
+.c7 {
+  background-color: #04424b;
+  color: #fff; }
+
+.c8 {
+  background-color: #333366;
+  color: #fff; }
+
+.c9 {
+  background-color: #993333;
+  color: #fff; }
+
+.c10 {
+  background-color: #993300;
+  color: #fff; }
+
+.c11 {
+  background-color: #184780;
+  color: #fff; }
+
+.c12 {
+  background-color: #669933;
+  color: #fff; }
+
+.c13 {
+  background-color: #663333;
+  color: #fff; }
+
+.c14 {
+  background-color: #0a6c4f;
+  color: #fff; }
+
+.c15 {
+  background-color: #78a12e;
+  color: #fff; }
+
+.c16 {
+  background-color: #00919e;
+  color: #fff; }
+
+body {
+  background: #071427 url(https://web.middlebury.edu/development/tools/1d2010/Images/bluegradient.jpg) no-repeat center top; }
+
+header.main .login {
+  float: right;
+  padding: 0px 10px; }
+  header.main .login a {
+    color: white; }
+header.main h1 {
+  font-weight: 100;
+  padding: 10px; }
+  header.main h1 a {
+    color: white; }
+
+.article {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2); }
+  .article .article-header a {
+    color: inherit; }
+  .article .article-author {
+    margin: 5px 0px;
+    font-size: 14px; }
+    .article .article-author a {
+      color: black; }
+
+.main-article {
+  background: white; }
+  .main-article .article-header {
+    padding: 10px; }
+    .main-article .article-header a {
+      color: inherit; }
+  .main-article .article-author {
+    padding: 0 10px;
+    margin: 5px 0px;
+    font-size: 14px; }
+    .main-article .article-author a {
+      color: black; }
+  .main-article .article-description {
+    padding: 10px; }
+
+.db-home .span4 {
+  background: white;
+  min-height: 300px; }
+  .db-home .span4 h4 {
+    padding: 0 10px; }
