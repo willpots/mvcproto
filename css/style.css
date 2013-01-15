@@ -106,9 +106,15 @@ header.main .login {
   header.main .login a {
     color: white; }
 header.main h1 {
-  font-weight: 100; }
+  font-weight: 500; }
   header.main h1 a {
     color: white; }
+
+#main .navbar .navbar-inner {
+  border-radius: 0; }
+
+.btn {
+  border-radius: 0; }
 
 .article {
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -197,3 +203,8 @@ ul.no-style {
     padding: 0; }
     .contribute ul li {
       padding: 10px 0; }
+
+footer.main {
+  text-align: center;
+  padding: 20px;
+  color: white; }

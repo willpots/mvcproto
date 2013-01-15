@@ -11,6 +11,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/kits\/includes\/footer.kit" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/kits\/includes\/footer.kit",
+      "outputAbbreviatedPath" : "\/kits\/includes\/footer.html",
+      "fileType" : 65536
+    },
     "\/img\/glyphicons-halflings.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -21,15 +30,6 @@
       "outputAbbreviatedPath" : "\/img\/glyphicons-halflings.png",
       "initialSize" : 12799,
       "fileType" : 8192
-    },
-    "\/kits\/includes\/footer.kit" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kits\/includes\/footer.kit",
-      "outputAbbreviatedPath" : "\/kits\/includes\/footer.html",
-      "fileType" : 65536
     },
     "\/img\/linkedin_signin_button.png" : {
       "ignoreWasSetByUser" : 0,
@@ -53,6 +53,15 @@
       "outputAbbreviatedPath" : "\/js\/bootstrap.min.min.js",
       "fileType" : 64
     },
+    "\/database.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/database.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/img\/glyphicons-halflings-white.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -72,15 +81,6 @@
       "inputAbbreviatedPath" : "\/kits\/author.kit",
       "outputAbbreviatedPath" : "\/author.html",
       "fileType" : 65536
-    },
-    "\/database.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/database.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/author.html" : {
       "ignoreWasSetByUser" : 0,
@@ -176,6 +176,17 @@
       "inputAbbreviatedPath" : "\/kits\/database.kit",
       "outputAbbreviatedPath" : "\/database.html",
       "fileType" : 65536
+    },
+    "\/img\/middstart.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/middstart.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/middstart.jpg",
+      "initialSize" : 8116,
+      "fileType" : 4096
     },
     "\/css\/bootstrap.css" : {
       "ignoreWasSetByUser" : 0,

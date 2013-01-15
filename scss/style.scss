@@ -74,7 +74,7 @@ header.main {
 		a {
 			color:white;
 		}
-		font-weight: 100;
+		font-weight: 500;
 	}
 }
 #main {
@@ -83,9 +83,12 @@ header.main {
 	}
 	.navbar {
 		.navbar-inner {
-
+			border-radius: 0;
 		}
 	}
+}
+.btn {
+	border-radius: 0;
 }
 .article {
 	border:1px solid rgba(255,255,255,0.2);
@@ -227,4 +230,9 @@ ul.no-style {
 			}
 		}
 	}
+}
+footer.main {
+	text-align: center;
+	padding:20px;
+	color:white;
 }
