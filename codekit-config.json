@@ -1,16 +1,7 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8241",
+  "creatorBuild" : "8248",
   "files" : {
-    "\/css\/bootstrap-responsive.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/bootstrap-responsive.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/kits\/includes\/footer.kit" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -30,6 +21,15 @@
       "outputAbbreviatedPath" : "\/img\/glyphicons-halflings.png",
       "initialSize" : 12799,
       "fileType" : 8192
+    },
+    "\/css\/bootstrap-responsive.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/bootstrap-responsive.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/img\/linkedin_signin_button.png" : {
       "ignoreWasSetByUser" : 0,
@@ -62,6 +62,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/kits\/author.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/kits\/author.kit",
+      "outputAbbreviatedPath" : "\/author.html",
+      "fileType" : 65536
+    },
     "\/img\/glyphicons-halflings-white.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -72,15 +81,6 @@
       "outputAbbreviatedPath" : "\/img\/glyphicons-halflings-white.png",
       "initialSize" : 8777,
       "fileType" : 8192
-    },
-    "\/kits\/author.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/kits\/author.kit",
-      "outputAbbreviatedPath" : "\/author.html",
-      "fileType" : 65536
     },
     "\/author.html" : {
       "ignoreWasSetByUser" : 0,
@@ -100,14 +100,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
+    "\/kits\/includes\/header.kit" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/kits\/includes\/header.kit",
+      "outputAbbreviatedPath" : "\/kits\/includes\/header.html",
+      "fileType" : 65536
     },
     "\/kits\/company.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -118,14 +118,14 @@
       "outputAbbreviatedPath" : "\/company.html",
       "fileType" : 65536
     },
-    "\/kits\/includes\/header.kit" : {
-      "ignoreWasSetByUser" : 1,
+    "\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kits\/includes\/header.kit",
-      "outputAbbreviatedPath" : "\/kits\/includes\/header.html",
-      "fileType" : 65536
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/kits\/article.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -135,6 +135,17 @@
       "inputAbbreviatedPath" : "\/kits\/article.kit",
       "outputAbbreviatedPath" : "\/article.html",
       "fileType" : 65536
+    },
+    "\/js\/bootstrap.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/bootstrap.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/bootstrap.min.js",
+      "fileType" : 64
     },
     "\/scss\/style.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -147,17 +158,6 @@
       "outputAbbreviatedPath" : "\/css\/style.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/js\/bootstrap.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/bootstrap.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/bootstrap.min.js",
-      "fileType" : 64
     },
     "\/article.html" : {
       "ignoreWasSetByUser" : 0,
